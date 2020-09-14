@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-現在、JavaScriptとNode.js使ったWebサイト制作およびWebアプリ開発を学習中。
+現在、JavaScriptとNode.js使ったWebサイト制作およびWebアプリ開発を学習中。 \
 I'm currently leaning "JavaScript", "Develop Website and Webapp with Node.js"
