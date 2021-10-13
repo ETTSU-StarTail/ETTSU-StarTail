@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-勉強中 -> Python
-
-試作中
-https://ettsu-startail.github.io/
+勉強中 -> Python/WebApp
