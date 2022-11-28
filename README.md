@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-勉強中 -> Python/WebApp
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ETTSU-StarTail&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
